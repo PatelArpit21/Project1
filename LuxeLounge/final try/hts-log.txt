@@ -1,0 +1,204 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 19 Aug 2025 12:15:37 at https://gardendowntown.com/ +*.css +*.js +*.woff +*.woff2 +*.ttf +*.otf +*.eot +*.svg +*.png +*.jpg +*.jpeg +*.gif +*.webp +gardendowntown.com/* +fonts.googleapis.com/* +cdnjs.cloudflare.com/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gardendowntown.com/ -O1 "C:\Users\patel\OneDrive\Desktop\final try" +*.css +*.js +*.woff +*.woff2 +*.ttf +*.otf +*.eot +*.svg +*.png +*.jpg +*.jpeg +*.gif +*.webp +gardendowntown.com/* +fonts.googleapis.com/* +cdnjs.cloudflare.com/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:16:17	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/ (from https://gardendowntown.com/)
+12:16:17	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/11 (from https://gardendowntown.com/)
+12:16:17	Error: 	"Forbidden" (403) at link https://gardendowntown.com/xmlrpc.php?rsd (from https://gardendowntown.com/)
+12:16:17	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2F (from https://gardendowntown.com/)
+12:16:17	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2F&format=xml (from https://gardendowntown.com/)
+12:17:22	Error: 	"Not Found" (404) at link https://gardendowntown.com/info@gardendowntown.com (from https://gardendowntown.com/)
+12:17:22	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/302 (from https://gardendowntown.com/sq/ballina/)
+12:17:22	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fballina%2F (from https://gardendowntown.com/sq/ballina/)
+12:17:22	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fballina%2F&format=xml (from https://gardendowntown.com/sq/ballina/)
+12:18:29	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/ballina/info@gardendowntown.com (from https://gardendowntown.com/sq/ballina/)
+12:18:29	Warning: 	Warning: store application/octet-stream without scan: C:/Users/patel/OneDrive/Desktop/final try/gardendowntown.com/wp-content/themes/Hotel-Garden-Downtown-Theme/fonts/Canela-Thin.svg
+12:18:30	Warning: 	Warning: store application/octet-stream without scan: C:/Users/patel/OneDrive/Desktop/final try/gardendowntown.com/wp-content/themes/Hotel-Garden-Downtown-Theme/fonts/mullerlight.svg
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/72 (from https://gardendowntown.com/room/aloe-vera-room/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=72
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=72 to https://gardendowntown.com/room/aloe-vera-room/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Faloe-vera-room%2F (from https://gardendowntown.com/room/aloe-vera-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Faloe-vera-room%2F&format=xml (from https://gardendowntown.com/room/aloe-vera-room/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/room/aloe-vera-room/info@gardendowntown.com (from https://gardendowntown.com/room/aloe-vera-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/73 (from https://gardendowntown.com/room/sanseveria-room/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=73
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=73 to https://gardendowntown.com/room/sanseveria-room/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fsanseveria-room%2F (from https://gardendowntown.com/room/sanseveria-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fsanseveria-room%2F&format=xml (from https://gardendowntown.com/room/sanseveria-room/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/room/sanseveria-room/info@gardendowntown.com (from https://gardendowntown.com/room/sanseveria-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/74 (from https://gardendowntown.com/room/lavandula-room/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=74
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=74 to https://gardendowntown.com/room/lavandula-room/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Flavandula-room%2F (from https://gardendowntown.com/room/lavandula-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Flavandula-room%2F&format=xml (from https://gardendowntown.com/room/lavandula-room/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/room/lavandula-room/info@gardendowntown.com (from https://gardendowntown.com/room/lavandula-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/75 (from https://gardendowntown.com/room/cactus-room/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=75
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=75 to https://gardendowntown.com/room/cactus-room/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fcactus-room%2F (from https://gardendowntown.com/room/cactus-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fcactus-room%2F&format=xml (from https://gardendowntown.com/room/cactus-room/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/room/cactus-room/info@gardendowntown.com (from https://gardendowntown.com/room/cactus-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/76 (from https://gardendowntown.com/room/guzmania-room/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=76
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=76 to https://gardendowntown.com/room/guzmania-room/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fguzmania-room%2F (from https://gardendowntown.com/room/guzmania-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fguzmania-room%2F&format=xml (from https://gardendowntown.com/room/guzmania-room/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/room/guzmania-room/info@gardendowntown.com (from https://gardendowntown.com/room/guzmania-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/77 (from https://gardendowntown.com/room/bonsai-room/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=77
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=77 to https://gardendowntown.com/room/bonsai-room/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fbonsai-room%2F (from https://gardendowntown.com/room/bonsai-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fbonsai-room%2F&format=xml (from https://gardendowntown.com/room/bonsai-room/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/room/bonsai-room/info@gardendowntown.com (from https://gardendowntown.com/room/bonsai-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/78 (from https://gardendowntown.com/room/dypsis-room/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=78
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=78 to https://gardendowntown.com/room/dypsis-room/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fdypsis-room%2F (from https://gardendowntown.com/room/dypsis-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Fdypsis-room%2F&format=xml (from https://gardendowntown.com/room/dypsis-room/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/room/dypsis-room/info@gardendowntown.com (from https://gardendowntown.com/room/dypsis-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/79 (from https://gardendowntown.com/room/lucky-bamboo-room/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=79
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=79 to https://gardendowntown.com/room/lucky-bamboo-room/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Flucky-bamboo-room%2F (from https://gardendowntown.com/room/lucky-bamboo-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Froom%2Flucky-bamboo-room%2F&format=xml (from https://gardendowntown.com/room/lucky-bamboo-room/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/room/lucky-bamboo-room/info@gardendowntown.com (from https://gardendowntown.com/room/lucky-bamboo-room/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/174 (from https://gardendowntown.com/restaurant/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=174
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=174 to https://gardendowntown.com/restaurant/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Frestaurant%2F (from https://gardendowntown.com/restaurant/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Frestaurant%2F&format=xml (from https://gardendowntown.com/restaurant/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/restaurant/info@gardendowntown.com (from https://gardendowntown.com/restaurant/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/13 (from https://gardendowntown.com/about/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=13
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=13 to https://gardendowntown.com/about/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fabout%2F (from https://gardendowntown.com/about/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fabout%2F&format=xml (from https://gardendowntown.com/about/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/about/info@gardendowntown.com (from https://gardendowntown.com/about/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/15 (from https://gardendowntown.com/rooms/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=15
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=15 to https://gardendowntown.com/rooms/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Frooms%2F (from https://gardendowntown.com/rooms/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Frooms%2F&format=xml (from https://gardendowntown.com/rooms/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/rooms/info@gardendowntown.com (from https://gardendowntown.com/rooms/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/17 (from https://gardendowntown.com/offers/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=17
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=17 to https://gardendowntown.com/offers/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Foffers%2F (from https://gardendowntown.com/offers/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Foffers%2F&format=xml (from https://gardendowntown.com/offers/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/offers/info@gardendowntown.com (from https://gardendowntown.com/offers/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/19 (from https://gardendowntown.com/careers/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=19
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=19 to https://gardendowntown.com/careers/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fcareers%2F (from https://gardendowntown.com/careers/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fcareers%2F&format=xml (from https://gardendowntown.com/careers/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/careers/info@gardendowntown.com (from https://gardendowntown.com/careers/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/21 (from https://gardendowntown.com/contact/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=21
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=21 to https://gardendowntown.com/contact/
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fcontact%2F (from https://gardendowntown.com/contact/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fcontact%2F&format=xml (from https://gardendowntown.com/contact/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/cdn-cgi/l/email-protection (from https://gardendowntown.com/contact/)
+12:18:30	Error: 	"Not Found" (404) at link https://gardendowntown.com/contact/info@gardendowntown.com (from https://gardendowntown.com/contact/)
+12:18:30	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/25 (from https://gardendowntown.com/privacy-policy/)
+12:18:30	Warning: 	Moved Permanently for https://gardendowntown.com/?p=25
+12:18:30	Warning: 	File has moved from https://gardendowntown.com/?p=25 to https://gardendowntown.com/privacy-policy/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fprivacy-policy%2F (from https://gardendowntown.com/privacy-policy/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fprivacy-policy%2F&format=xml (from https://gardendowntown.com/privacy-policy/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/privacy-policy/info@gardendowntown.com (from https://gardendowntown.com/privacy-policy/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/319 (from https://gardendowntown.com/sq/room/dhoma-aloe-vera-room/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=319
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=319 to https://gardendowntown.com/sq/room/dhoma-aloe-vera-room/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-aloe-vera-room%2F (from https://gardendowntown.com/sq/room/dhoma-aloe-vera-room/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-aloe-vera-room%2F&format=xml (from https://gardendowntown.com/sq/room/dhoma-aloe-vera-room/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/room/dhoma-aloe-vera-room/info@gardendowntown.com (from https://gardendowntown.com/sq/room/dhoma-aloe-vera-room/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/320 (from https://gardendowntown.com/sq/room/dhoma-sanseveria/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=320
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=320 to https://gardendowntown.com/sq/room/dhoma-sanseveria/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-sanseveria%2F (from https://gardendowntown.com/sq/room/dhoma-sanseveria/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-sanseveria%2F&format=xml (from https://gardendowntown.com/sq/room/dhoma-sanseveria/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/room/dhoma-sanseveria/info@gardendowntown.com (from https://gardendowntown.com/sq/room/dhoma-sanseveria/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/321 (from https://gardendowntown.com/sq/room/dhoma-lavandula/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=321
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=321 to https://gardendowntown.com/sq/room/dhoma-lavandula/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-lavandula%2F (from https://gardendowntown.com/sq/room/dhoma-lavandula/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-lavandula%2F&format=xml (from https://gardendowntown.com/sq/room/dhoma-lavandula/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/room/dhoma-lavandula/info@gardendowntown.com (from https://gardendowntown.com/sq/room/dhoma-lavandula/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/322 (from https://gardendowntown.com/sq/room/dhoma-cactus/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=322
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=322 to https://gardendowntown.com/sq/room/dhoma-cactus/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-cactus%2F (from https://gardendowntown.com/sq/room/dhoma-cactus/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-cactus%2F&format=xml (from https://gardendowntown.com/sq/room/dhoma-cactus/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/room/dhoma-cactus/info@gardendowntown.com (from https://gardendowntown.com/sq/room/dhoma-cactus/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/323 (from https://gardendowntown.com/sq/room/dhoma-guzmania/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=323
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=323 to https://gardendowntown.com/sq/room/dhoma-guzmania/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-guzmania%2F (from https://gardendowntown.com/sq/room/dhoma-guzmania/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-guzmania%2F&format=xml (from https://gardendowntown.com/sq/room/dhoma-guzmania/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/room/dhoma-guzmania/info@gardendowntown.com (from https://gardendowntown.com/sq/room/dhoma-guzmania/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/324 (from https://gardendowntown.com/sq/room/dhoma-bonsai/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=324
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=324 to https://gardendowntown.com/sq/room/dhoma-bonsai/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-bonsai%2F (from https://gardendowntown.com/sq/room/dhoma-bonsai/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-bonsai%2F&format=xml (from https://gardendowntown.com/sq/room/dhoma-bonsai/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/room/dhoma-bonsai/info@gardendowntown.com (from https://gardendowntown.com/sq/room/dhoma-bonsai/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/325 (from https://gardendowntown.com/sq/room/dhoma-dypsis/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=325
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=325 to https://gardendowntown.com/sq/room/dhoma-dypsis/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-dypsis%2F (from https://gardendowntown.com/sq/room/dhoma-dypsis/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-dypsis%2F&format=xml (from https://gardendowntown.com/sq/room/dhoma-dypsis/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/room/dhoma-dypsis/info@gardendowntown.com (from https://gardendowntown.com/sq/room/dhoma-dypsis/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/rooms/326 (from https://gardendowntown.com/sq/room/dhoma-lucky-bamboo/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=326
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=326 to https://gardendowntown.com/sq/room/dhoma-lucky-bamboo/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-lucky-bamboo%2F (from https://gardendowntown.com/sq/room/dhoma-lucky-bamboo/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Froom%2Fdhoma-lucky-bamboo%2F&format=xml (from https://gardendowntown.com/sq/room/dhoma-lucky-bamboo/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/room/dhoma-lucky-bamboo/info@gardendowntown.com (from https://gardendowntown.com/sq/room/dhoma-lucky-bamboo/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/304 (from https://gardendowntown.com/sq/rreth-nesh/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=304
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=304 to https://gardendowntown.com/sq/rreth-nesh/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Frreth-nesh%2F (from https://gardendowntown.com/sq/rreth-nesh/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Frreth-nesh%2F&format=xml (from https://gardendowntown.com/sq/rreth-nesh/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/rreth-nesh/info@gardendowntown.com (from https://gardendowntown.com/sq/rreth-nesh/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/306 (from https://gardendowntown.com/sq/dhomat/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=306
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=306 to https://gardendowntown.com/sq/dhomat/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fdhomat%2F (from https://gardendowntown.com/sq/dhomat/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fdhomat%2F&format=xml (from https://gardendowntown.com/sq/dhomat/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/dhomat/info@gardendowntown.com (from https://gardendowntown.com/sq/dhomat/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/308 (from https://gardendowntown.com/sq/restaurant-sq/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=308
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=308 to https://gardendowntown.com/sq/restaurant-sq/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Frestaurant-sq%2F (from https://gardendowntown.com/sq/restaurant-sq/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Frestaurant-sq%2F&format=xml (from https://gardendowntown.com/sq/restaurant-sq/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/restaurant-sq/info@gardendowntown.com (from https://gardendowntown.com/sq/restaurant-sq/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/310 (from https://gardendowntown.com/sq/ofertat/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=310
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=310 to https://gardendowntown.com/sq/ofertat/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fofertat%2F (from https://gardendowntown.com/sq/ofertat/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fofertat%2F&format=xml (from https://gardendowntown.com/sq/ofertat/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/ofertat/info@gardendowntown.com (from https://gardendowntown.com/sq/ofertat/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/312 (from https://gardendowntown.com/sq/karriera/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=312
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=312 to https://gardendowntown.com/sq/karriera/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fkarriera%2F (from https://gardendowntown.com/sq/karriera/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fkarriera%2F&format=xml (from https://gardendowntown.com/sq/karriera/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/karriera/info@gardendowntown.com (from https://gardendowntown.com/sq/karriera/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/314 (from https://gardendowntown.com/sq/kontakt/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=314
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=314 to https://gardendowntown.com/sq/kontakt/
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fkontakt%2F (from https://gardendowntown.com/sq/kontakt/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fkontakt%2F&format=xml (from https://gardendowntown.com/sq/kontakt/)
+12:18:31	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/kontakt/info@gardendowntown.com (from https://gardendowntown.com/sq/kontakt/)
+12:18:31	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/wp/v2/pages/316 (from https://gardendowntown.com/sq/politika-e-privatesise/)
+12:18:31	Warning: 	Moved Permanently for https://gardendowntown.com/?p=316
+12:18:31	Warning: 	File has moved from https://gardendowntown.com/?p=316 to https://gardendowntown.com/sq/politika-e-privatesise/
+12:18:32	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fpolitika-e-privatesise%2F (from https://gardendowntown.com/sq/politika-e-privatesise/)
+12:18:32	Error: 	"Unauthorized" (401) at link https://gardendowntown.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgardendowntown.com%2Fsq%2Fpolitika-e-privatesise%2F&format=xml (from https://gardendowntown.com/sq/politika-e-privatesise/)
+12:18:32	Error: 	"Not Found" (404) at link https://gardendowntown.com/sq/politika-e-privatesise/info@gardendowntown.com (from https://gardendowntown.com/sq/politika-e-privatesise/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 55 seconds : 332 links scanned, 170 files written (39324592 bytes overall) [36002702 bytes received at 205729 bytes/sec], 6784784 bytes transferred using HTTP compression in 96 files, ratio 21%, 49.7 requests per connection
+(131 errors, 62 warnings, 0 messages)
